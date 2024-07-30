@@ -9,7 +9,7 @@ Welcome to the **AI_DIY** repository! This project is dedicated to honing my AI 
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#notice)
+- [Notice](#notice)
 
 ## Introduction
 
