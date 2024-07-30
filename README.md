@@ -9,7 +9,7 @@ Welcome to the **AI_DIY** repository! This project is dedicated to honing my AI 
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](#notice)
 
 ## Introduction
 
@@ -58,7 +58,7 @@ Each project will have its own directory with a README file explaining the proje
 
 I welcome contributions to this repository! If you have any ideas, suggestions, or improvements, please feel free to open an issue or submit a pull request. Let's learn and grow together in the exciting field of AI.
 
-## Attention
+## Notice
 
 Since this repository is open-source, if there is anything that I did illegally or unproperly, please feel free to contact me and remind me. I will deeply appreciate for that since I am a complete novice to Github and may break some rules.
 
