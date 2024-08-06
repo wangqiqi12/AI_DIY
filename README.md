@@ -15,6 +15,8 @@ Welcome to the **AI_DIY** repository! This project is dedicated to honing my AI 
 
 The **AI_DIY** repository is a personal project aimed at improving my understanding and skills in the field of artificial intelligence. Through this repository, I will be experimenting with different AI techniques, building models, and working on various AI-related projects.
 
+
+
 ## Projects
 
 This repository will include a variety of projects, such as:
